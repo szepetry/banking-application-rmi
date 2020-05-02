@@ -6,4 +6,4 @@ Application supports money transfer, balance enquiry, withdrawals, deposit, view
 Project was created on Netbeans IDE. 
 Also includes JMeter test project along with some documentation of how the application is designed and how it works. 
 
--- Referred Pages 414 - 421 from http://what-when-how.com/Tutorial/topic-1144mmi5/Java-Examples-in-a-Nutshell-414.html
+* Referred Pages 414 - 421 from http://what-when-how.com/Tutorial/topic-1144mmi5/Java-Examples-in-a-Nutshell-414.html
